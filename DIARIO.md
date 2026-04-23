@@ -88,11 +88,5 @@ Como ya hemos desarrollado los cambios y los mismos funcionan correctamente, se 
 
 
 ### Evidencias
-**Captura 8: PR de Feature **
-![Github - Conflicto](capturas/captura05.png)
-
-
-![Marcadores de conflicto en VSCode](capturas/captura06.png)
-
-
-![Navegador con todas las opciones](capturas/captura06.png)
+**Captura 8: Fichero Log **
+![Commits realizados](capturas/captura08.png)
