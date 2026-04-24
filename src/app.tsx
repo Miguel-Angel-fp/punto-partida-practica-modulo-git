@@ -25,7 +25,7 @@ const OPTIONS: Option[] = [
   {
     id: 3,
     title: "Opción 3",
-    description: "Forks",
+    description: "Flujo Provisional",
     message:
       "Un fork es una copia de un repositorio en tu cuenta. Puedes proponer cambios al original mediante un Pull Request.",
     featureFlag: true,
@@ -38,6 +38,21 @@ const OPTIONS: Option[] = [
   //   message: 'Escribe aquí el mensaje de la Opción 4.',
   //   featureFlag: false,
   // },
+  // Añade aquí la Opción 5:
+  {
+    id: 5,
+    title: "Opción 5",
+    description: "Pull Request",
+    message: "Una Pull Request es una propuesta formal para incorporar cambios de una rama a otra. Permite revisar el código antes de mergear y deja un historial claro de qué se hizo y por qué.",
+    featureFlag: false,
+  },
+  {
+    id: 6,
+    title: "Opción 6",
+    description: "Flujo de trabajo colaborativo con resolución de conflictos",
+    message: "¡Tarea 5 completada con éxito!",
+    featureFlag: false,
+  },
 ];
 
 export default function App() {
